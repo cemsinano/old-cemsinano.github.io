@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hypothesis Testing"
-date: 2015-08-03 03:32:44
+date: 2017-09-23 01:23:44
 image: '/assets/img/'
 description: 'Hypothesis Testing, Type I and Type II Errors'
 tags:
