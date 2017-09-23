@@ -1,8 +1,8 @@
 # Site settings
 title: My new world
 description: My new world
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cemsinano.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://cemsinano.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Cem Sinan Ozturk
