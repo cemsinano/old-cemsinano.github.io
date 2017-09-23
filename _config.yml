@@ -1,13 +1,13 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: My new world
+description: My new world
 baseurl: "/cemsin" # the subpath of your site, e.g. /blog
 url: "https://cemsinano.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Cem Sinan Ozturk
 user_description: Master of Data Science Student at UBC
-user_title: Cem Sinan
+user_title: Master of Data Science Student at UBC
 email: cemsinanozturk@gmail.com
 twitter_username: cmsnnztrk
 github_username: cemsinano
